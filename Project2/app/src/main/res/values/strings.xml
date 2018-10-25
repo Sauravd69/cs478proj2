@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Project2</string>
+
+    <string-array name="CarNames">
+        <item>Honda</item>
+        <item>Toyota</item>
+        <item>Mazda</item>
+        <item>Dodge</item>
+        <item>Chevrolet</item>
+        <item>Kia</item>
+        <item>Lexus</item>
+        <item>Acura</item>
+        <item>Audi</item>
+        <item>BMW</item>
+        <item>Cadillac</item>
+        <item>Ford</item>
+        <item>GMC</item>
+        <item>Mercedes-Benz</item>
+    </string-array>
+
+    <string-array name="Websites">
+        <item>https://www.honda.com/</item>
+        <item>https://www.toyota.com/</item>
+        <item>http://www.mazda.com/</item>
+        <item>https://www.dodge.com/</item>
+        <item>https://www.chevrolet.com/</item>
+        <item>https://www.kia.com/us/en/home</item>
+        <item>https://www.lexus.com/</item>
+        <item>https://www.acura.com/</item>
+        <item>https://www.audi.com/en.html</item>
+        <item>https://www.bmwusa.com/</item>
+        <item>https://www.cadillac.com/</item>
+        <item>https://www.ford.com/</item>
+        <item>https://www.gmc.com/</item>
+        <item>https://www.mercedes-benz.com/en/</item>
+    </string-array>
+
+    <string-array name="hondaDealer">
+        <item>1111 N Clark St #2, Chicago, IL 60610</item>
+        <item>Honda City Chicago, 4950 S Pulaski Rd, Chicago, IL 60632</item>
+        <item>McGrath City Honda, 6720 W Grand Ave, Chicago, IL 60707</item>
+    </string-array>
+
+    <string-array name="toyotaDealer">
+        <item>Chicago Northside Toyota, 6042 N Western Ave, Chicago, IL 60659</item>
+        <item>Midtown Toyota, 2700 N Cicero Ave, Chicago, IL 60639</item>
+        <item>Toyota On Western, 6941 S Western Ave, Chicago, IL 60636</item>
+    </string-array>
+
+    <string-array name="mazdaDealer">
+        <item>The Autobarn City Mazda, 3255 N Cicero Ave, Chicago, IL 60641</item>
+        <item>The Autobarn Mazda of Evanston, 1015 Chicago Ave, Evanston, IL 60202</item>
+        <item>West End Auto Inc, 148 N Cicero Ave, Chicago, IL 60644</item>
+    </string-array>
+
+    <string-array name="dodgeDealer">
+        <item>South Chicago Dodge Chrysler Jeep, 7340 S Western Ave, Chicago, IL 60636</item>
+        <item>Napletons Northwestern Chrysler Jeep Dodge Ram, 5950 N Western Ave, Chicago, IL 60659</item>
+        <item>Marino Chrysler Jeep Dodge, 5133 W Irving Park Rd, Chicago, IL 60641</item>
+    </string-array>
+
+    <string-array name="chevroletDealer">
+        <item>Rogers Chevrolet, 2720 S Michigan Ave, Chicago, IL 60616</item>
+        <item>Kingdom Chevy, 6603 S Western Ave, Chicago, IL 60636</item>
+        <item>Mike Anderson Chevrolet of Chicago, 5333 W Irving Park Rd, Chicago, IL 60641</item>
+    </string-array>
+
+    <string-array name="kiaDealer">
+        <item>Evergreen Kia, 9205 S Western Ave, Chicago, IL 60643</item>
+        <item>Grossinger Kia, 6750 Lincoln Ave, Lincolnwood, IL 60712</item>
+        <item>Berwyn Kia, 7050 Ogden Ave, Berwyn, IL 60402</item>
+    </string-array>
+
+    <string-array name="lexusDealer">
+        <item>McGrath Lexus of Chicago Sales Center, 1250 W Division St, Chicago, IL 60642</item>
+        <item>Woodfield Lexus, 350 E Golf Rd, Schaumburg, IL 60173</item>
+        <item>Lexus of Orland, 8300 W 159th St, Orland Park, IL 60462</item>
+    </string-array>
+
+    <string-array name="acuraDealer">
+        <item>McGrath Acura of Downtown Chicago, 1301 N Elston Ave, Chicago, IL 60642</item>
+        <item>Greater Chicago Motors, 1850 N Elston Ave, Chicago, IL 60642</item>
+        <item>McGrath Acura of Morton Grove, 9105 Waukegan Rd, Morton Grove, IL 60053</item>
+    </string-array>
+
+    <string-array name="audiDealer">
+        <item>Fletcher Jones Audi, 1523 W North Ave, Chicago, IL 60642</item>
+        <item>Greater Chicago Motors, 1850 N Elston Ave, Chicago, IL 60642</item>
+        <item>Top Car Motors, 5480 N Elston Ave, Chicago, IL 60630</item>
+    </string-array>
+
+    <string-array name="bmwDealer">
+        <item>Top Car Motors, 5480 N Elston Ave, Chicago, IL 60630</item>
+        <item>Perillo BMW, 1035 N Clark St, Chicago, IL 60610</item>
+        <item>Elite Sales and Service Inc., 4048 N Elston Ave, Chicago, IL 60618</item>
+    </string-array>
+
+    <string-array name="cadillacDealer">
+        <item>1530 North Dayton St Just West of North Ave and Clybourn, Chicago, IL 60642</item>
+        <item>10125 S Cicero Ave, Oak Lawn, IL 60453</item>
+        <item>10825 Central Ave, Oak Lawn, IL 60453</item>
+    </string-array>
+
+    <string-array name="fordDealer">
+        <item>Fox Ford Lincoln, 2501 N Elston Ave, Chicago, IL 60647</item>
+        <item>6455 S Western Ave, Chicago, IL 60636</item>
+        <item>11400 S Pulaski Rd, Chicago, IL 60655</item>
+    </string-array>
+
+    <string-array name="gmcDealer">
+        <item>Rogers Buick GMC, 2720 S Michigan Ave, Chicago, IL 60616</item>
+        <item>9301 S Cicero Ave, Oak Lawn, IL 60453</item>
+        <item>7400 W Cermak Rd, North Riverside, IL 60546</item>
+    </string-array>
+
+    <string-array name="mercedesbenzDealer">
+        <item>Mercedes-Benz of Chicago, 1520 W North Ave, Chicago, IL 60642</item>
+        <item>Loeber Motors, 4255 W Touhy Ave, Lincolnwood, IL 60712</item>
+        <item>1850 N Elston Ave, Chicago, IL 60642</item>
+    </string-array>
+</resources>
